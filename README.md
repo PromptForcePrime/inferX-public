@@ -66,4 +66,4 @@ Good things to file:
 - A use case you're not sure InferX supports
 - Anything that made you close the tab
 
-Security issues: email security@inferx.dev rather than filing a public issue.
+
