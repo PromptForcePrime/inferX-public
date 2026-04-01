@@ -1,4 +1,4 @@
-# InferX
+# InferX  - https://inferx-sigma.vercel.app
 
 **40–70% off your LLM bill. One line of config.**
 
